@@ -1,4 +1,4 @@
-<h1>Hi, I'm Artur!<h1>
+<h1>Hi, I'm Artur!</h1>
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Cleaning & Transformation</b>
