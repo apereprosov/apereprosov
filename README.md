@@ -1,4 +1,4 @@
-<h1>Hi, I'm Artur! <br/><a href="https://github.com/apereprosov">My LinkedIn</a>
+<h1>Hi, I'm Artur!
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Cleaning & Transformation</b>
