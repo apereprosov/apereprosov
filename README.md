@@ -2,10 +2,9 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Cleaning & Transformation</b>
-  - [Missing](github.com)<b><i>(Description)</b></i>
+  - [Cleaning and Preparing the FIFA 21 Dataset for Analysis]([github.com](https://github.com/apereprosov/fifa21_cleaning))
+  - [Scrapping and cleaning Czech Republic Judical data]([github.com](https://github.com/apereprosov/judicial_analysis_cr))
 - <b>Data Analysis</b>
-  - [Missing]()<b><i>(Description)</b></i>
-- <b>Data Visualization</b>
-  - [Missing]()<b><i>(Description)</b></i>
-- <b>Data Science</b>
-  - [Missing]()<b><i>(Description)</b></i>
+  - [Road accidents in the Czech Republic](https://github.com/apereprosov/car-accident-cr/)
+- <b>A/B Testing</b>
+  - [GameDev A/B test](https://github.com/apereprosov/ab-test-gamedev)
