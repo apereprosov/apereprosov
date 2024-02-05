@@ -8,3 +8,6 @@
   - [Road accidents in the Czech Republic](https://github.com/apereprosov/car-accident-cr/)
 - <b>A/B Testing</b>
   - [GameDev A/B test](https://github.com/apereprosov/ab-test-gamedev)
+- <b>Data Science</b>
+  - [Bank Churn Prediction](https://github.com/apereprosov/bank-churn-prediction
+  
