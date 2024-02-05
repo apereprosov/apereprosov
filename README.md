@@ -4,6 +4,7 @@
 - <b>Data Cleaning & Transformation</b>
   - [Cleaning and Preparing the FIFA 21 Dataset for Analysis](https://github.com/apereprosov/fifa21_cleaning)
   - [Scrapping and cleaning Czech Republic Judical data](https://github.com/apereprosov/judicial_analysis_cr)
+  - [Road accidents in the Czech Republic](https://github.com/apereprosov/car-accident-cr/)
 - <b>Data Analysis</b>
   - [Road accidents in the Czech Republic](https://github.com/apereprosov/car-accident-cr/)
 - <b>A/B Testing</b>
