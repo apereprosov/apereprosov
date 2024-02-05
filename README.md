@@ -9,5 +9,5 @@
 - <b>A/B Testing</b>
   - [GameDev A/B test](https://github.com/apereprosov/ab-test-gamedev)
 - <b>Data Science</b>
-  - [Bank Churn Prediction](https://github.com/apereprosov/bank-churn-prediction
+  - [Bank Churn Prediction](https://github.com/apereprosov/bank-churn-prediction)
   
